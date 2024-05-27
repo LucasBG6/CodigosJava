@@ -65,3 +65,4 @@ public class App {
        
     }
 }
+//entendendo melhor a programação em lista
